@@ -9,3 +9,5 @@ lazy val root = (project in file(".")).
   settings(
     name := "hello"
   )
+
+// some changes here for new feature.
