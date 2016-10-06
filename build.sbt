@@ -11,3 +11,4 @@ lazy val root = (project in file(".")).
   )
 
 // some changes here for new feature.
+// some new stable release stuffs here.
